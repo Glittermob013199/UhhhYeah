@@ -1,5 +1,5 @@
 UhhhYeah
-This is a short text story game I'm working on. It can run as it is but I will be working on it to make it longewr and add more options.
+This is a short text story game I'm working on. It can run as it is but I will be working on it in order to make it longer and add more options.
 ========
 var user = prompt("You walk into a house that has three doors. Which one will you enter, the first, second, or third?").toLowerCase();
 switch(user) {
